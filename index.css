@@ -6,7 +6,7 @@
 }
 
 .buggy-wall{
-    background-image: url(Buggy-img/buggy.jpg);
+    background-image: url(buggy-img/buggy.jpg);
     background-size: cover;
     width: 100%;
     height: 100vh;
